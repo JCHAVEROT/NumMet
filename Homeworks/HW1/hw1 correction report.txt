@@ -1,0 +1,8 @@
+Grade: 5.50
+Problem 1 (/15): 15 points
+Problem 2.1 (/10): 10 points
+Problem 2.2 (/15): 15 points
+Problem 3 (/25): 25 points
+Problem 4 (/25): 15 points
+-4.3: Incorrect explanation: the absolute error is larger because of the large scale of exp and relative error is smaller because of the lack of cancellation error (-4pts)
+-4.4: #2 is more a problem wiht few terms than many (-2pts), #3 is not a numerical issue (-2pts) and #1 is the general typoe of errors that we are interested in this question, but you did not name any (-2pts)

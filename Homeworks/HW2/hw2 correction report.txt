@@ -1,0 +1,9 @@
+Grade: 6.00	
+Problem 1 (/15): 14 points
+1.4 This problem here is unrelated to overfitting. The fitted curve does not even pass through all points. Although that would also be problematic, if you could successfully build a 35 degree polynomial. (-1 pt)
+
+Problem 2.1—2.3 (/25): 25 points
+2.3: invgamma could use `np.clip` to clamp values to a range. Copies are also unnecessary here (-0pts)
+
+Problem 2.4.1—2.4.3 (/20): 20 points
+Problem 2.4.4—2.4.5 (/40): 40 points

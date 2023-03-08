@@ -1,0 +1,11 @@
+Grade: 5.75	
+Problem 1 (/5): 4 points
+ideally you do not compute mean over the test set as its assumed to be unavailable at training, and it leaks some information (-1pt)
+
+Problem 2 (/25): 25 points
+Problem 3.1-3.3 (/20): 20 points
+Problem 3.4 (/35): 30 points
+3.4.3: Your implementation of backpropagation is terribly inefficient. You do not need to backpropagate all the way from the beginning for each layer! You can simply update the jacobian at each iteration and use that to compute the jacobians at the next one --5pts)
+
+Problem 4 (/15): 14 points
+4.1: The problem is that L2 doesn't understand small differences between the labels because they are "close" values, even when it's completely wrong because the class isn't the same (-1pt)
