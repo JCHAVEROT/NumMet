@@ -6,4 +6,4 @@ Please download and run the jupyter notebooks to display the additional pictures
 
 Author : Jeremy Chaverot.
 
-Date: Sept-Dec 2022
+Date: Sept-Dec 2022.
